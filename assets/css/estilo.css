@@ -120,11 +120,11 @@ body{
 .modulo.roxo {border:2px solid #a619c2;}
 .modulo.roxo > h3 { background: #a619c2;}
 
-.modulo.verde {border:2px solid #4caf50;}
-.modulo.verde > h3 { background: #4caf50;}
+.modulo.verde-escuro {border:2px solid #1b5e20;}
+.modulo.verde-escuro > h3 { background: #1b5e20;}
 
-.modulo.verde {border:2px solid #4caf50;}
-.modulo.verde > h3 { background: #4caf50;}
+.modulo.azul-escuro {border:2px solid #0d47a1;}
+.modulo.azul-escuro > h3 { background: #0d47a1;}
 
-.modulo.verde {border:2px solid #4caf50;}
-.modulo.verde > h3 { background: #4caf50;}
+.modulo.vermelho-escuro {border:2px solid #b71c1c;}
+.modulo.vermelho-escuro > h3 { background: #b71c1c;}
